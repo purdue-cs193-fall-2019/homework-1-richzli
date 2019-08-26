@@ -1,3 +1,9 @@
+# What I like about CS 193
+
+- hopefully I will be able to learn some tools I'm not as familiar with, such as vim or linux command line
+- chill class just for learning more of those "soft skills" to offset the actual lectures
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
