@@ -1,7 +1,7 @@
 # Richard Li's First CS 193 HW
 
 - hopefully I will be able to learn some tools I'm not as familiar with, such as vim or linux command line
-- chill class just for learning more of those "soft skills" to offset the actual lectures
+- chill class just for learning more of those technical skills to offset the actual lectures
 
 
 ## Welcome to GitHub Pages
